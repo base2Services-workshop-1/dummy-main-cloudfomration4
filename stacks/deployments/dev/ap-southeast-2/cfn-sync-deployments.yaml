@@ -5,7 +5,7 @@ Parameters:
   RepositoryOwner:
     Type: String
   RepositoryName:
-    Type String
+    Type: String
 
 Resources:
   InitialPlaceholder:
